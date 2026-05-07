@@ -66,7 +66,7 @@ The dashboard answers real business questions:
 - Category-level filter buttons (Chicken, Classic, Supreme, Veggie)
 - Date range slicer for dynamic filtering
 
----
+
 ---
 
 ## Dashboard Screenshots (Click to enlarge) :
@@ -157,7 +157,6 @@ Pizza-Sales-PowerBI-Dashboard/
 ## 👤 Author
 
 **[Ahmed Gamal]**
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ahmed-gamal-ahmed-824844263/?skipRedirect=true]
 - 🐙 mail: [midog8867@gmail.com]
 
 ---
