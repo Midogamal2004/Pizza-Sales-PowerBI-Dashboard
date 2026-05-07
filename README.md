@@ -125,23 +125,14 @@ Pizza-Sales-PowerBI-Dashboard/
 │   └── Pizza_Sales_Dashboard.pbix    # Power BI report file
 │
 ├── screenshots/
-│   ├── page1_overview.png            # Sales Overview page
-│   └── page2_best_worst.png          # Best/Worst Sellers page
+│   ├── Home Dashboard.png            # Sales Overview page
+│   └── Pizza Dashboard.png          # Best/Worst Sellers page
 │
 └── README.md
 ```
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### Page 1 — Sales Overview
-![Sales Overview](screenshots/page1_overview.png)
-
-### Page 2 — Best / Worst Sellers
-![Best Worst Sellers](screenshots/page2_best_worst.png)
-
----
 
 ## 🚀 How to Use
 
@@ -156,9 +147,9 @@ Pizza-Sales-PowerBI-Dashboard/
 
 ## 👤 Author
 
-**[Your Name]**
-- 🔗 LinkedIn: [your-linkedin-url]
-- 🐙 GitHub: [your-github-url]
+**[Ahmed Gamal]**
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ahmed-gamal-ahmed-824844263/?skipRedirect=true]
+- 🐙 mail: [midog8867@gmail.com]
 
 ---
 
