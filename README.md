@@ -67,6 +67,15 @@ The dashboard answers real business questions:
 - Date range slicer for dynamic filtering
 
 ---
+---
+
+## Dashboard Screenshots (Click to enlarge) :
+
+<img src="https://github.com/Midogamal2004/Pizza-Sales-PowerBI-Dashboard/blob/main/Home%20Dashboard%20.png">
+
+<img src="https://github.com/Midogamal2004/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza%20Dashboard%20.png">
+
+---
 
 ## 💡 Key Insights
 
